@@ -1,0 +1,7 @@
+C:\Users\unkno\source\repos\kDirectory\kDirectory\bin\Debug\kDirectory.exe.config
+C:\Users\unkno\source\repos\kDirectory\kDirectory\bin\Debug\kDirectory.exe
+C:\Users\unkno\source\repos\kDirectory\kDirectory\bin\Debug\kDirectory.pdb
+C:\Users\unkno\source\repos\kDirectory\kDirectory\obj\Debug\kDirectory.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\kDirectory\kDirectory\obj\Debug\kDirectory.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\kDirectory\kDirectory\obj\Debug\kDirectory.exe
+C:\Users\unkno\source\repos\kDirectory\kDirectory\obj\Debug\kDirectory.pdb
